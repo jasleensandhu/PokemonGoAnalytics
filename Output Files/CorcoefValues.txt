@@ -1,0 +1,72 @@
+android_ratings_1 android_ratings_2
+0.994207916269
+android_ratings_1 android_ratings_3
+0.99252151211
+android_ratings_1 android_ratings_4
+0.993169370519
+android_ratings_1 android_ratings_5
+0.992937900987
+android_ratings_1 android_total_ratings
+0.994814032134
+android_ratings_1 ios_all_ratings
+0.945816955364
+android_ratings_1 ios_current_ratings
+-0.628205109585
+android_ratings_1 ios_file_size
+0.869415658223
+android_ratings_2 android_ratings_3
+0.999474344331
+android_ratings_2 android_ratings_4
+0.999300877288
+android_ratings_2 android_ratings_5
+0.999189724188
+android_ratings_2 android_total_ratings
+0.999472588747
+android_ratings_2 ios_all_ratings
+0.961465804393
+android_ratings_2 ios_current_ratings
+-0.628570225768
+android_ratings_2 ios_file_size
+0.841085175428
+android_ratings_3 android_ratings_4
+0.999865730963
+android_ratings_3 android_ratings_5
+0.999479923195
+android_ratings_3 android_total_ratings
+0.999517402299
+android_ratings_3 ios_all_ratings
+0.957792549528
+android_ratings_3 ios_current_ratings
+-0.641592531078
+android_ratings_3 ios_file_size
+0.84522313658
+android_ratings_4 android_ratings_5
+0.999657420105
+android_ratings_4 android_total_ratings
+0.999718210515
+android_ratings_4 ios_all_ratings
+0.957871435825
+android_ratings_4 ios_current_ratings
+-0.646088682503
+android_ratings_4 ios_file_size
+0.848002730235
+android_ratings_5 android_total_ratings
+0.999834040699
+android_ratings_5 ios_all_ratings
+0.960330002947
+android_ratings_5 ios_current_ratings
+-0.637181024295
+android_ratings_5 ios_file_size
+0.846713599239
+android_total_ratings ios_all_ratings
+0.958803379599
+android_total_ratings ios_current_ratings
+-0.637605973351
+android_total_ratings ios_file_size
+0.850359062122
+ios_all_ratings ios_current_ratings
+-0.511092785895
+ios_all_ratings ios_file_size
+0.7383534015
+ios_current_ratings ios_file_size
+-0.638065714728
